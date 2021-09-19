@@ -2102,3 +2102,130 @@ http://watchindia.net:8880/live/33253/72963/1067.m3u8
 http://watchindia.net:8880/live/33253/72963/2145.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia",Sky Sports Premier League
 http://watchindia.net:8880/live/33253/72963/2092.m3u8
+#EXTINF:-1  group-title="தமிழ்",Zee Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="தமிழ்",Vijay Super
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
+#EXTINF:-1  group-title="தமிழ்",KTV HD
+http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="தமிழ்",Zee Thirai
+https://ultimateiptv.tk/g.php?id=out/v1/48fbba85dc7643df9a97fbf6c30cf6a3
+#EXTINF:-1  group-title="தமிழ்",JAYA TV HD
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="தமிழ்",Polimer TV
+http://212.224.98.196:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
+#EXTINF:-1  group-title="தமிழ்",Mk Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",IBC Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",IBC Kids
+https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",IBC Bhakti
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Siripooli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+
+#EXTINF:-1  group-title="தமிழ்",Mk Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Tunes6Music
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1  group-title="தமிழ்",MurasuTV
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Mk TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Yupp Thirai
+http://istreamiptv.gq/vdn/thirai/auth.php
+#EXTINF:-1  group-title="தமிழ்",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1  group-title="தமிழ்",🇬🇧 Thanthi TV UK
+https://ultimateiptvin.000webhostapp.com/yupp/yupp.php?id=14424688
+#EXTINF:-1  group-title="தமிழ்",Puthiya Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Kalaignar Seithigal
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",DD Podhigai
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
+#EXTINF:-1  group-title="தமிழ்",TTV
+http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",TVI HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Mon Tamil HD
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Kanchi TV
+http://198.144.149.82:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",Capital Music
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="தமிழ்",Vagai TV
+http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",Kanaa
+http://198.144.149.82:8080/NOTV/KANAA/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",Analai Express TV HD
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",Jay TV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1  group-title="தமிழ்",CapitalTharisanam
+http://89.187.162.89/Capital_Tharisanam/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="தமிழ்",OMTV
+http://7starcloud.com:1935/omtv/omtv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Imayam TV
+https://5c75277727cd1.streamlock.net/imayamtv/imayamtv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",MalligaiTV
+http://jaaltv.livebox.co.in/malligaihls/live.m3u8
+#EXTINF:-1  group-title="தமிழ்",AnandhaTv
+http://media.7starcloud.com:1935/anandhatv/anandhatvlive/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",SriKrishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",SMCV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Purple TV
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",MSNTV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",GTATamil TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Kavai TV
+http://media.7starcloud.com:1935/anandhatv/kavaitv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Vaigai Tv
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF:-1  group-title="தமிழ்",Sakthi TV
+http://media.7starcloud.com:1935/live/aadhavantv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Aus Tamil TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",WT TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Palar TV
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:-1  group-title="தமிழ்",JCV TV
+http://account11.livebox.co.in/jcvtvhls/live.m3u8
+#EXTINF:-1  group-title="தமிழ்",Kavin TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
+#EXTINF:-1  group-title="தமிழ்",Singam TV
+http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
+#EXTINF:-1  group-title="தமிழ்",Mon Tamil HD
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1  group-title="தமிழ்",News 80
+http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
